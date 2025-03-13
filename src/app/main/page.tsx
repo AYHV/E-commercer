@@ -1,6 +1,6 @@
-import Navbar from '@/component/Navbar';
+import Navbar from '@/app/Navbar/page';
 import React from 'react';
-import Sidebar from '@/component/Sidebar';
+import Sidebar from '@/app/sidebar/Sidebar';
 
 const MainPage: React.FC = () => {
     return (

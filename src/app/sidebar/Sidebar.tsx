@@ -23,7 +23,7 @@ const Sidebar = () => {
     { icon: <LayoutGrid size={20} />, label: 'Kanban', href: '/kanban', badge: 'Pro' },
     { icon: <Inbox size={20} />, label: 'Inbox', href: '/inbox', badge: '3' },
     { icon: <Users size={20} />, label: 'Users', href: '/users' },
-    { icon: <Package size={20} />, label: 'Products', href: '/Products' }, // Changed to match Products folder
+    { icon: <Package size={20} />, label: 'Products', href: '/add' }, // Changed to match Products folder
      
     { icon: <LogIn size={20} />, label: 'Sign In', href: '/signin' },
     { icon: <UserPlus size={20} />, label: 'Sign Up', href: '/signup' },
